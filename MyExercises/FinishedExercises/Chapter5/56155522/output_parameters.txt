@@ -1,0 +1,18 @@
+Raster Download Information
+
+Number of columns:  271
+Number of rows:  253
+Resolution in x direction:  30 Meter
+Resolution in y direction:  30 Meter
+Coordinate system ID Native:  102039
+Top edge Native:  2052825 Meter
+Bottom edge Native:  2045235 Meter
+Left edge Native:  1335075 Meter
+Right edge Native:  1343205 Meter
+
+Coordinate system ID WGS84:  4326
+Top edge WGS84:  40.4774955104998 Degree
+Bottom edge WGS84:  40.3985374869155 Degree
+Left edge WGS84:  -80.0577382415016 Degree
+Right edge WGS84:  -79.9473216831088 Degree
+

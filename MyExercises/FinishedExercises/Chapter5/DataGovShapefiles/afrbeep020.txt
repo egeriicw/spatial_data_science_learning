@@ -1,0 +1,472 @@
+Metadata:
+  Identification_Information:
+    Citation:
+      Citation_Information:
+        Originator: Agricultural Research Service
+        Publication_Date: 201006
+        Title: Spread of Africanized Honey Bees in the United States
+        Publication_Information:
+          Publication_Place: Reston, VA
+          Publisher: National Atlas of the United States
+        Online_Linkage: <http://nationalatlas.gov/atlasftp.html?openChapters=chpbio#chpbio>
+
+    Description:
+      Abstract:
+        This map layer portrays the spread, by year, of the Africanized honey
+        bee (AHB) in the United States, Puerto Rico, and the U.S. Virgin
+        Islands.  The data indicate the year in which the AHB was first observed
+        in a county.  This map layer was previously distributed as Spread of
+        Africanized Bees in the United States.  This is a revised version of the
+        March 2006 map layer.
+      Purpose:
+        These data are intended for geographic display and analysis at the
+        national level, and for large regional areas.  The data should be
+        displayed and analyzed at scales appropriate for 1:2,000,000-scale data.
+        No responsibility is assumed by the National Atlas of the United States
+        in the use of these data.
+
+    Time_Period_of_Content:
+      Time_Period_Information:
+        Range_of_Dates/Times:
+          Beginning_Date: 1990
+          Ending_Date: 2009
+      Currentness_Reference: Ground condition
+    Status:
+      Progress: Complete
+      Maintenance_and_Update_Frequency: Irregular
+    Spatial_Domain:
+      Bounding_Coordinates:
+        West_Bounding_Coordinate: 170
+        East_Bounding_Coordinate: -64
+        North_Bounding_Coordinate: 72
+        South_Bounding_Coordinate: 17
+    Keywords:
+      Theme:
+        Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+        Theme_Keyword: biota
+        Theme_Keyword: environment
+      Theme:
+        Theme_Keyword_Thesaurus: None
+        Theme_Keyword: Africanized
+        Theme_Keyword: Honey bees
+        Theme_Keyword: Bees
+        Theme_Keyword: Invasive species
+      Place:
+        Place_Keyword_Thesaurus:
+          U.S. Department of Commerce, 1995, Countries, Dependencies, Areas of
+          Special Sovereignty, and Their Principal Administrative Divisions
+          (Federal Information Processing Standard 10-4): Washington, DC,
+          National Institute of Standards and Technology.
+        Place_Keyword: United States
+        Place_Keyword: USA
+      Place:
+        Place_Keyword_Thesaurus:
+          U.S. Department of Commerce, 1987, Codes for the Identification of the
+          States, the District of Columbia and the Outlying Areas of The United
+          States, and Associated Areas (Federal Information Processing Standard
+          5-2):  Washington, DC, National Institute of Standards and Technology.
+        Place_Keyword: Alabama
+        Place_Keyword: Alaska
+        Place_Keyword: Arizona
+        Place_Keyword: Arkansas
+        Place_Keyword: California
+        Place_Keyword: Colorado
+        Place_Keyword: Connecticut
+        Place_Keyword: Delaware
+        Place_Keyword: District of Columbia
+        Place_Keyword: Florida
+        Place_Keyword: Georgia
+        Place_Keyword: Hawaii
+        Place_Keyword: Idaho
+        Place_Keyword: Illinois
+        Place_Keyword: Indiana
+        Place_Keyword: Iowa
+        Place_Keyword: Kansas
+        Place_Keyword: Kentucky
+        Place_Keyword: Louisiana
+        Place_Keyword: Maine
+        Place_Keyword: Maryland
+        Place_Keyword: Massachusetts
+        Place_Keyword: Michigan
+        Place_Keyword: Minnesota
+        Place_Keyword: Mississippi
+        Place_Keyword: Missouri
+        Place_Keyword: Montana
+        Place_Keyword: Nebraska
+        Place_Keyword: Nevada
+        Place_Keyword: New Hampshire
+        Place_Keyword: New Jersey
+        Place_Keyword: New Mexico
+        Place_Keyword: New York
+        Place_Keyword: North Carolina
+        Place_Keyword: North Dakota
+        Place_Keyword: Ohio
+        Place_Keyword: Oklahoma
+        Place_Keyword: Oregon
+        Place_Keyword: Pennsylvania
+        Place_Keyword: Rhode Island
+        Place_Keyword: South Carolina
+        Place_Keyword: South Dakota
+        Place_Keyword: Tennessee
+        Place_Keyword: Texas
+        Place_Keyword: Utah
+        Place_Keyword: Vermont
+        Place_Keyword: Virginia
+        Place_Keyword: Washington
+        Place_Keyword: West Virginia
+        Place_Keyword: Wisconsin
+        Place_Keyword: Wyoming
+        Place_Keyword: Puerto Rico
+        Place_Keyword: Virgin Islands
+        Place_Keyword: U.S. Virgin Islands
+    Access_Constraints: None
+    Use_Constraints:
+      None.  Acknowledgment of the National Atlas of the United States of
+      America would be appreciated in products derived from these data.
+    Point_of_Contact:
+      Contact_Information:
+        Contact_Person_Primary:
+          Contact_Person: Kim Kaplan
+          Contact_Organization: Agricultural Research Service, U.S. Department of Agriculture
+        Contact_Address:
+          Address_Type: Mailing address
+          Address: 10300 Baltimore Blvd
+          City: Beltsville
+          State_or_Province: MD
+          Postal_Code: 20705
+        Contact_Voice_Telephone: 301-504-1637
+        Contact_Electronic_Mail_Address: kim.kaplan@usds.gov
+
+  Data_Quality_Information:
+    Logical_Consistency_Report:
+      No additional checks for topological consistency were performed on this
+      map layer.
+    Completeness_Report:
+      This map layer includes AHB observation statistics for all fifty of the
+      United States, Puerto Rico, and the U.S. Virgin Islands for the years
+      1990-2009.
+    Lineage:
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: Agricultural Research Service
+            Publication_Date: Unknown
+            Title: Spread of Africanized Honey Bees in the United States
+            Publication_Information:
+              Publication_Place: Beltsville, MD
+              Publisher: U.S. Department of Agriculture
+        Type_of_Source_Media: Electronic mail
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Range_of_Dates/Times:
+              Beginning_Date: 1990
+              Ending_Date: 2003
+          Source_Currentness_Reference: Observation dates
+        Source_Citation_Abbreviation: ARS
+        Source_Contribution: Spatial and attribute information.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 200411
+            Title: County Boundaries of the United States, 2001
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: National Atlas of the United States
+            Online_Linkage: <http://nationalatlas.gov/atlasftp.html?openChapters=chpbound#chpbound>
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Range_of_Dates/Times:
+              Beginning_Date: 1972
+              Ending_Date: 2001
+          Source_Currentness_Reference: Ground condition
+        Source_Citation_Abbreviation: Atlas_Cnty
+        Source_Contribution: Spatial information.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: Agricultural Research Service
+            Publication_Date: 2006
+            Title: Where are Africanized Honey Bees Now
+            Publication_Information:
+              Publication_Place: Beltsville, MD
+              Publisher: U.S. Department of Agriculture
+        Type_of_Source_Media: Electronic mail
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Range_of_Dates/Times:
+              Beginning_Date: 1990
+              Ending_Date: 2005
+          Source_Currentness_Reference: Observation dates
+        Source_Citation_Abbreviation: ARS06
+        Source_Contribution: Spatial and attribute information.
+
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: Agricultural Research Service
+            Publication_Date: Unknown
+            Title: Spread of Africanized Honey Bees in the United States
+            Publication_Information:
+              Publication_Place: Beltsville, MD
+              Publisher: U.S. Department of Agriculture
+            Online_Linkage:  <http://www.ars.usda.gov/Research/docs.htm?docid=11059&page=6>
+        Type_of_Source_Media: Online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Range_of_Dates/Times:
+              Beginning_Date: 2005
+              Ending_Date: 2009
+          Source_Currentness_Reference: Observation dates
+        Source_Citation_Abbreviation: ARS09
+        Source_Contribution: Spatial and attribute information.
+
+      Process_Step:
+        Process_Description:
+          The ARS data were received in a variety of formats, and included
+          information for the United States, Puerto Rico, and the U.S. Virgin
+          Islands.  The ARS reports identified the year and the counties in
+          which Africanized honey bees were reported.  Working in ArcGIS, Atlas-
+          Cnty, a shapefile of the county boundaries, was modified to include a
+          Year attribute which was then populated with the information from ARS
+          indicating when Africanized bees were first observed in a county.
+          Counties where Africanized honey bees have not been observed were all
+          given a Year value of 0.  The result was saved as a new shapefile.
+        Source_Used_Citation_Abbreviation: ARS
+        Source_Used_Citation_Abbreviation: Atlas-Cnty
+        Process_Date: 200409
+        Source_Produced_Citation_Abbreviation: ATLAS-Bees04
+
+      Process_Step:
+        Process_Description:
+          The ARS06 data were received as a PDF file.  Using ARS06 as a reference,
+          ATLAS-Bees04 was edited in ArcView to reflect new observations for 2004
+          and 2005, as well as corrections for New Mexico.  The result was saved
+          as a new shapefile.
+        Source_Used_Citation_Abbreviation: ATLAS-Bees04
+        Source_Used_Citation_Abbreviation: ARS06
+        Process_Date: 200602
+        Source_Produced_Citation_Abbreviation: ATLAS-Bees06
+
+      Process_Step:
+        Process_Description:
+          The ARS06 data were observed as an online map.  Using ARS09 as a reference,
+          ATLAS-Bees06 was edited in ArcMap to reflect new observations for 2006-2009
+          The result was saved as a new shapefile.
+        Source_Used_Citation_Abbreviation: ATLAS-Bees06
+        Source_Used_Citation_Abbreviation: ARS09
+        Process_Date: 201006
+
+  Spatial_Data_Organization_Information:
+    Indirect_Spatial_Reference:
+      U.S. Department of Commerce, 1987, Codes for the Identification of the
+      States, the District of Columbia and the Outlying Areas of The United
+      States, and Associated Areas (Federal Information Processing Standard
+      5-2): Washington, DC, National Institute of Standards and Technology.
+
+      U.S. Department of Commerce, 1990, Counties and Equivalent Entities of The
+      United States, Its Possessions, and Associated Areas (Federal Information
+      Processing Standard 6-4): Washington, DC, National Institute of Standards
+      and Technology.
+
+  Spatial_Reference_Information:
+    Horizontal_Coordinate_System_Definition:
+      Geographic:
+        Latitude_Resolution: 0.000278
+        Longitude_Resolution: 0.000278
+        Geographic_Coordinate_Units: Decimal degrees
+      Geodetic_Model:
+        Horizontal_Datum_Name: North American Datum of 1983
+        Ellipsoid_Name: GRS1980
+        Semi-major_Axis: 6378137
+        Denominator_of_Flattening_Ratio: 298.257222
+
+  Entity_and_Attribute_Information:
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: Africanized honeybee occurrences (described by Afrbeep020.dbf)
+        Entity_Type_Definition:
+          An indication of whether Africanized honey bees have been observed in
+          a county, and the year when they were first observed.
+        Entity_Type_Definition_Source: U.S. Geological Survey
+      Attribute:
+        Attribute_Label: Shape
+        Attribute_Definition: The representation of the entity in the data.
+        Attribute_Definition_Source: U.S. Geological Survey
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Polygon
+            Enumerated_Domain_Value_Definition: 2-dimensional element
+            Enumerated_Domain_Value_Definition_Source: ESRI GIS software
+      Attribute:
+        Attribute_Label: Area
+        Attribute_Definition:
+          The size of the shape in coverage units.  In the distributed
+          file, coverage units represent square decimal degrees.
+        Attribute_Definition_Source: U.S. Geological Survey
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.000
+            Range_Domain_Maximum: 73.832
+      Attribute:
+        Attribute_Label: Perimeter
+        Attribute_Definition:
+          The perimeter of the shape in coverage units.  In the distributed
+          file, coverage units represent decimal degrees.
+        Attribute_Definition_Source: U.S. Geological Survey
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.010
+            Range_Domain_Maximum: 87.571
+      Attribute:
+        Attribute_Label: Afrbeep020
+        Attribute_Definition: Internal feature number.
+        Attribute_Definition_Source: U.S. Geological Survey
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 2
+            Range_Domain_Maximum: 6139
+      Attribute:
+        Attribute_Label: State
+        Attribute_Definition:
+          The two-character abbreviation for the name of the State or State
+          equivalent in which the county is located.
+        Attribute_Definition_Source: U.S. Geological Survey
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name:
+              Codes for the Identification of the States, the District of
+              Columbia and the Outlying Areas of the United States, and
+              Associated Areas; (Federal Information Processing Standard (FIPS)
+              5-2): Washington, DC, National Institute of Standards and
+              Technology.
+            Codeset_Source: U.S. Department of Commerce
+      Attribute:
+        Attribute_Label: County
+        Attribute_Definition: The name of the county or county equivalent.
+        Attribute_Definition_Source: U.S. Geological Survey
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name:
+              Counties and Equivalent Entities of the United States, Its
+              Possessions, and Associated Areas; (Federal Information Processing
+              Standard (FIPS) 6-4): Washington, DC, National Institute of
+              Standards and Technology.
+            Codeset_Source: U.S. Department of Commerce
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: <blank>
+            Enumerated_Domain_Value_Definition:
+              Water areas of the United States for which a county designation is
+              not reported.
+            Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+      Attribute:
+        Attribute_Label: Fips
+        Attribute_Definition:
+          The 5-digit FIPS code of the county or county equivalent.  Codes
+          ending in 000 indicate water areas for which a county designation is
+          not reported.
+        Attribute_Definition_Source: U.S. Geological Survey
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name:
+              Counties and Equivalent Entities of the United States, Its
+              Possessions, and Associated Areas; (Federal Information Processing
+              Standard (FIPS) 6-4): Washington, DC, National Institute of
+              Standards and Technology.
+            Codeset_Source: U.S. Department of Commerce
+      Attribute:
+        Attribute_Label: State_fips
+        Attribute_Definition: The 2-digit FIPS code of the State or State equivalent.
+        Attribute_Definition_Source: U.S. Geological Survey
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name:
+              Codes for the Identification of the States, the District of
+              Columbia and the Outlying Areas of the United States, and
+              Associated Areas; (Federal Information Processing Standard (FIPS)
+              5-2): Washington, DC, National Institute of Standards and
+              Technology.
+            Codeset_Source: U.S. Department of Commerce
+      Attribute:
+        Attribute_Label: Year
+        Attribute_Definition:
+          The year in which Africanized honey bees were first observed in the
+          county.
+        Attribute_Definition_Source: U.S. Geological Survey
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 0
+            Enumerated_Domain_Value_Definition: Africanized honey bees have not been observed in the county.
+            Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1990
+            Range_Domain_Maximum: 2009
+
+  Distribution_Information:
+    Distributor:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: Earth Science Information Center, U.S. Geological Survey
+        Contact_Address:
+          Address_Type: Mailing address
+          Address: 507 National Center
+          City: Reston
+          State_or_Province: VA
+          Postal_Code: 20192
+        Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+        Contact_Voice_Telephone: 703-648-5920
+        Contact_Instructions:
+          In addition to the address above there are other ESIC offices
+          throughout the country.  A full list of these offices is at
+          <http://ask.usgs.gov/esic_index.html>.
+
+    Distribution_Liability:
+      Although these data have been processed successfully on a computer system
+      at the U.S. Geological Survey, no warranty expressed or implied is made by
+      the U.S. Geological Survey regarding the utility of the data on any other
+      system, nor shall the act of distribution constitute any such warranty.
+      No responsibility is assumed by the U.S. Geological Survey in the use of
+      these data.
+    Standard_Order_Process:
+      Digital_Form:
+
+        Digital_Transfer_Information:
+          Format_Name: ESRI Shapefile
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: <http://nationalatlas.gov/atlasftp.html?openChapters=chpbio#chpbio>
+      
+      Fees: There is no charge for the map layer.
+
+  Metadata_Reference_Information:
+   Metadata_Date: 20100707
+   Metadata_Contact:
+     Contact_Information:
+       Contact_Person_Primary:
+         Contact_Person: Terry Higgins
+         Contact_Organization: National Atlas of the United States
+       Contact_Address:
+         Address_Type: Mailing address
+         Address: 1400 Independence Road
+         City: Rolla
+         State_or_Province: MO
+         Postal_Code: 65401
+       Contact_Voice_Telephone: 573-308-3592
+       Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+   Metadata_Standard_Name:
+     FGDC Content Standards for Digital Geospatial Metadata 
+   Metadata_Standard_Version: FGDC-STD-001-1998
+   Metadata_Security_Information: 
+     Metadata_Security_Classification_System: None
+     Metadata_Security_Classification: Unclassified
+     Metadata_Security_Handling_Description: None
+
+
+
